@@ -41,9 +41,7 @@
     * [ ] Has dependency vulnerability checkers in place (eg: Python safety, npm audit)
     * [ ] Promotes privacy and raises awareness on users and stakeholders
 * [ ] Development, Staging and Production environments as similar as possible, while asserting user data protecting through anonymization. [More details](https://docs.google.com/presentation/d/1d1AEIg9_GLCL62E8Nkfcu4W5UyNXK8mR8ynDqcaomMo/edit) 
-
-
-*References:*
-- https://martinfowler.com/articles/is-quality-worth-cost.html
-- https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling
-- https://12factor.net/config
+* [ ] References 
+    * [ ] https://martinfowler.com/articles/is-quality-worth-cost.html
+    * [ ] https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling
+    * [ ] https://12factor.net/config
